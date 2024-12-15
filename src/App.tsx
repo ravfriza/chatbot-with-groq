@@ -34,7 +34,7 @@ function App() {
   };
 
   return (
-    <main className="min-h-screen p-4 border border-white">
+    <main className="min-h-screen p-4 ">
       <div className="max-w-3xl mx-auto flex flex-col h-[calc(100vh-2rem)]">
         <Header title="Chatbot with Groq" />
 
